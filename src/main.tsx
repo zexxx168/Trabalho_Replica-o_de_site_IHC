@@ -1,4 +1,3 @@
-window.location.replace("https://zexxx168.github.io/homepage/");
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.tsx'
