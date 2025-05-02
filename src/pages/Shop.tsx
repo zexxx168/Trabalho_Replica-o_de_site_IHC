@@ -19,7 +19,7 @@ const products: Product[] = [
     category: 'Our Cheeses',
     price: 12.99,
     description: 'A traditional hard cheese aged for 12 months, with a rich, nutty flavor and crystalline texture',
-    image: 'https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg',
+    image: 'https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     weight: '200g',
     aging: '12 months'
   },
@@ -48,7 +48,7 @@ const products: Product[] = [
     category: 'Biscuits',
     price: 6.99,
     description: 'Handcrafted sourdough crackers, perfectly paired with our artisanal cheeses',
-    image: 'https://images.pexels.com/photos/1437267/pexels-photo-1437267.jpeg',
+    image: 'https://images.pexels.com/photos/1963999/pexels-photo-1963999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     weight: '150g'
   },
   {
